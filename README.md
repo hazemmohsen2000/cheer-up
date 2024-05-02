@@ -8,6 +8,6 @@
 
 Get inspired and spread positivity with "Cheer Up" today!
 
-![screenshot1](cheer-up\assets\Capture1.PNG)
-![screenshot2](cheer-up\assets\Capture2.PNG)
+![screenshot1](Capture1.PNG)
+![screenshot2](Capture2.PNG)
 
