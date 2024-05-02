@@ -1,0 +1,118 @@
+html, body {
+     margin: 0;
+     padding: 0;
+     background-color: #1b1924;
+     text-align: center;
+     color: #ffffff;
+     font-family: "Josefin Sans", sans-serif;
+     user-select: none;
+
+
+}
+#img1{
+    width: 150px;
+    
+}
+#main{
+    max-width: 100px;
+    margin: 30px auto;
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    
+justify-content: center;
+text-align: center;
+align-items: center
+ 
+    
+    
+}
+input {
+  width: 150px;
+  height: 40px;
+  border: 0;
+  border-radius: 8px;
+  background: #444059;
+  color: #8f8f8f;
+  text-align: center;
+  margin: 10px 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 11px;
+}
+h1{
+     font-size: 27px;
+  font-weight: bold;
+ 
+  
+}
+#input-box{
+    font-family: "Josefin Sans", sans-serif;
+    background: #444059;
+    border:none;
+    width: 317px;
+    height: 118px;
+    border-radius: 8px;
+    color :#8F8F8F;
+    padding:10px;
+    margin :10px;
+    resize: none;
+}
+#btn1{
+   width: 340px;
+   height: 61px;
+   border-radius:  8px;
+   background-color: #28A9F1;
+   font-weight: bold;
+   font-size: 22px;
+   border:none;
+   font-family: "Josefin Sans", sans-serif;
+ 
+}
+#btn1:hover {
+  cursor: pointer;
+  background: #8f8f8f;
+}
+#list{
+  padding : 0;
+    list-style-type: none;
+    
+}
+
+
+li {
+  border-radius: 15px;;
+  word-wrap: break-word;
+  width: 280px;
+  list-style: none;
+  background: white;
+  color: #1b1924;
+  text-align: left;
+  padding: 15px;
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.review-text {
+  color: #444059;
+  font-size: 20px;
+margin : 0;
+font-family: "Josefin Sans", sans-serif;
+}
+
+.like-btn {
+  background: none;
+  padding: 0;
+ border: none ;
+  text-align: right;
+}
+
+.like-btn:hover {
+  background: none;
+  cursor: pointer;
+}
+
